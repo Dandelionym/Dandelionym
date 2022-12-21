@@ -1,12 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dandelionym&label=Profile%20views&color=0e75b6&style=flat" alt="dandelionym" /> </p>
-
+<p align="left" width=60> <img src="https://komarev.com/ghpvc/?username=dandelionym&label=Profile%20views&color=0e75b6&style=flat" alt="dandelionym" /> </p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dandelionym&show_icons=true&locale=en" alt="dandelionym" /></p>
 
 I'm currently a student from **Westlake University**.
 My research interest contains Graph Learning and bioinformatics.
 
-<span > 
+<span> 
 <img src="https://img.shields.io/badge/Python-82%25-blue" />
 <img src="https://img.shields.io/badge/JavaScript-12%25-red" />
 <img src="https://img.shields.io/badge/CUDA-6%25-green" />
@@ -17,6 +16,11 @@ My research interest contains Graph Learning and bioinformatics.
 - 👯 I’m looking to collaborate on **bioinformatics**.
 - 📫 How to reach me: yingmingpu@gmail.com
 
+---
+
+
+
+<!--
 ---
 
 
@@ -34,7 +38,6 @@ My research interest contains Graph Learning and bioinformatics.
 
 
 
-<!--
 **Dandelionym/Dandelionym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
