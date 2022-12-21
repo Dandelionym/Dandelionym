@@ -13,7 +13,7 @@ My research interest contains Graph Learning and bioinformatics.
 
 
 - 💬 Ask me about **Computer Science**
-- 👯 I’m looking to collaborate on **bioinformatics**.
+- 👯 I’m looking to collaborate on **Biology**.
 - 📫 How to reach me: yingmingpu@gmail.com
 
 ---
