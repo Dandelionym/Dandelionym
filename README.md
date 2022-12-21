@@ -1,3 +1,5 @@
+### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/`Dandelionym`-github-readme)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dandelionym&show_icons=true&icon_color=CE1D2D&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 #### Hi there 👋
