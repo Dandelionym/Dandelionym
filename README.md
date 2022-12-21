@@ -1,7 +1,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dandelionym&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+#### Hi there 👋
+I'm currently a student from **Westlake University**.
+My research interest contains Graph Learning and bioinformatics.
 
-## Hi there 👋
+- 💬 Ask me about Computer Science
+- 📫 How to reach me: yingmingpu@gmail.com
+- 👯 I’m looking to collaborate on **bioinformatics**.
+
 
 <!--
 **Dandelionym/Dandelionym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
