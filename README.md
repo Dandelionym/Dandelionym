@@ -2,7 +2,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dandelionym&show_icons=true&locale=en" alt="dandelionym" /></p>
 
-I'm currently a student from **Westlake University**.
+I'm currently a researcher at **Westlake University**.
 My research interest contains Graph Learning and bioinformatics.
 
 <span> 
