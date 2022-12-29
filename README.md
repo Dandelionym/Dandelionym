@@ -3,7 +3,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dandelionym&show_icons=true&locale=en" alt="dandelionym" /></p>
 
 I'm currently a researcher at **Westlake University**.
-My research interest contains Graph Learning and bioinformatics.
+My research interest contains Graph Learning, Chemistry and bioinformatics.
 
 <span> 
 <img src="https://img.shields.io/badge/Python-82%25-blue" />
