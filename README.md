@@ -16,7 +16,7 @@ My research interest contains Graph Learning, Chemistry and bioinformatics.
 
 
 - 💬 Ask me about **Computer Science**
-- 👯 I’m looking to collaborate on **Biology**.
+- 👯 I’m looking to collaborate on **Material Science**.
 - 📫 How to reach me: yingmingpu@gmail.com
 
 ---
