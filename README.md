@@ -1,6 +1,5 @@
 <p align="left" width=60> <img src="https://komarev.com/ghpvc/?username=dandelionym&label=Profile%20views&color=0e75b6&style=flat" alt="dandelionym" /> </p>
 
-![Screenshot from 2023-03-11 16-45-19](https://user-images.githubusercontent.com/62579469/224613913-af712b39-0f6f-41aa-bdb8-f59d4b713472.png)
 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dandelionym&show_icons=true&locale=en" alt="dandelionym" /></p>
