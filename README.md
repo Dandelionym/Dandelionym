@@ -1,5 +1,8 @@
 <p align="left" width=60> <img src="https://komarev.com/ghpvc/?username=dandelionym&label=Profile%20views&color=0e75b6&style=flat" alt="dandelionym" /> </p>
 
+![Screenshot from 2023-03-11 16-45-08 (copy)](https://user-images.githubusercontent.com/62579469/224611246-d30da6a6-250a-4879-9d18-ddf60d5e330f.jpg)
+
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dandelionym&show_icons=true&locale=en" alt="dandelionym" /></p>
 
 I'm currently a researcher at **Westlake University**.
