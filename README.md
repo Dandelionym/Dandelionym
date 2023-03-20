@@ -6,13 +6,14 @@
 
 I'm currently a researcher at **Westlake University**.
 My research interest contains Graph Learning with Chemistry. [\[HOME PAGE\]](https://dandelionym.github.io/)
-<!--
+
+
 <span> 
-<img src="https://img.shields.io/badge/Python-82%25-blue" />
-<img src="https://img.shields.io/badge/JavaScript-12%25-red" />
-<img src="https://img.shields.io/badge/CUDA-6%25-green" />
+<img src="https://img.shields.io/badge/Python-100%25-blue" />
+<img src="https://img.shields.io/badge/FullStack-100%25-yellow" />
+<img src="https://img.shields.io/badge/PyTorch-100%25-red" />
 </span>
--->
+
 
 - 💬 Ask me about **Computer Science**
 - 👯 I’m looking to collaborate on **Material Science**.
