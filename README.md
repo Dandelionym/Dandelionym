@@ -15,9 +15,9 @@ My research interest contains Graph Learning with Chemistry. [\[HOME PAGE\]](htt
 </span>
 
 
-- 💬 Ask me about **Computer Science**
-- 👯 I’m looking to collaborate on **Material Science**.
-- 📫 How to reach me: yingmingpu@gmail.com
+- 🏛️ Ask me about **Computer Science**
+- 🤝 I’m looking to collaborate on **Material Science**.
+- 📧 How to reach me: yingmingpu@gmail.com
 
 ---
 
