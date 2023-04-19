@@ -2,7 +2,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dandelionym&show_icons=true&locale=en" alt="dandelionym" /></p>
 
-I'm a researcher at **Westlake University**. I focus on AI for Material Science with Prof. Hongyu Chen and Prof. Tao Lin... [>>](https://dandelionym.github.io/)
+I'm a researcher at **School of Science, Westlake University**. I focus on AI for Material Science with Prof. Hongyu Chen and Prof. Tao Lin... [>>](https://dandelionym.github.io/)
 
 
 <span> 
