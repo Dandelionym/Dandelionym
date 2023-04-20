@@ -14,7 +14,7 @@ I'm a researcher at **School of Science, Westlake University**. I focus on AI fo
 
 - 🏛️ **Computer Science** Background.
 - 🤝 Looking to collaborate on **Material Science**.
-- 📧 Reach out: yingmingpu@gmail.com
+- 📧 Reach out: wias.ym@gmail.com
 
 ---
 
