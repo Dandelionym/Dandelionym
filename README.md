@@ -1,6 +1,5 @@
 <p align="left" width=60> <img src="https://komarev.com/ghpvc/?username=dandelionym&label=Profile%20views&color=0e75b6&style=flat" alt="dandelionym" /> </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dandelionym&show_icons=true&locale=en" alt="dandelionym" /></p>
 
 I'm a researcher at **School of Science, Westlake University**. I focus on AI for Material Science with Prof. Hongyu Chen and Prof. Tao Lin... [>>](https://dandelionym.github.io/)
 
@@ -23,6 +22,7 @@ I'm a researcher at **School of Science, Westlake University**. I focus on AI fo
 <!--
 ---
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dandelionym&show_icons=true&locale=en" alt="dandelionym" /></p>
 
 
 <h3 align="left">Support:</h3>
