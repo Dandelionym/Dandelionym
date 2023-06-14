@@ -12,12 +12,13 @@
 
 
 
+<p align="right"><b>Westlake University, Zhejiang University</b> </p>
 
-- 🏛️ **Computer Science** Background.
-- 🤝 Looking to collaborate on **AI + Material Science**.
-- 📧 <a>wias.ym@gmail.com</a>
+<p align="right"><b>AI for Material Science</b> </p>
 
----
+<p align="right"><b>wias.ym@gmail.com</b> </p>
+
+<br/>
 
 
 
