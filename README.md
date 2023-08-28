@@ -1,6 +1,6 @@
 <p align="left" width=60> <img src="https://komarev.com/ghpvc/?username=dandelionym&label=Profile%20views&color=0e75b6&style=flat" alt="dandelionym" /> </p>
 
-![pexels-matthew-montrone-1324803](https://github.com/Dandelionym/Dandelionym/assets/62579469/102ff16b-ed78-431c-9c95-351a0fcefa70)
+<img src="https://github.com/Dandelionym/Dandelionym/assets/62579469/c7d89284-7ecf-4c35-960b-74bef938c282" width=120>
 
 
 &emsp;&emsp; <i>There is one thing really impressive to me: sometimes if you try to observe this world, this universe, your heart or your baby, it must be static. That's cool, but you may not know, at any moment it is trying to move, to change, to fall or left, I mean, it is a trend, whether for good or bad, you never know that, however, by this, we can live in the past and we can be living in the future.</i>
