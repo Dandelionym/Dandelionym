@@ -1,21 +1,9 @@
-<p align="left" width=60> <img src="https://komarev.com/ghpvc/?username=dandelionym&label=Profile%20views&color=0e75b6&style=flat" alt="dandelionym" /> </p>
+<p><img src="https://github.com/Dandelionym/Dandelionym/assets/62579469/9c27af81-6b8e-4144-9a97-4d1da07d84c7" width=120/></p>
 
-
-
-
-&emsp;&emsp; <i>There is one thing really impressive to me: sometimes if you try to observe this world, this universe, your heart or your baby, it must be static. That's cool, but you may not know, at any moment it is trying to move, to change, to fall or left, I mean, it is a trend, whether for good or bad, you never know that, however, by this, we can live in the past and we can be living in the future.</i>
-
-
+<i>One observation has always struck me profoundly: when we pause to truly observe—be it the universe, our own hearts, or a child—it may appear static. Such stillness is captivating. Yet, beneath this apparent calm, there exists an undercurrent of movement and transformation. Everything is in a perpetual state of flux, leaning towards a potential future or rooted in an unchangeable past. This intrinsic motion, whether for better or worse, remains largely unseen. It serves as a reminder that while we are shaped by our past, we are also perpetually stepping into the future.</i>
 
 <p align="right"> —— <b>Mellen Y.Pu</b> </p>
-
-
-
-
 <p align="right"><b>Westlake University, Zhejiang University</b> </p>
-
-<p align="right"><b>AI for Material Science</b> </p>
-
 <p align="right"><b>wias.ym@gmail.com</b> </p>
 
 <br/>
