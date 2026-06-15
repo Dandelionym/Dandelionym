@@ -1,7 +1,7 @@
 <p><img src="https://github.com/Dandelionym/Dandelionym/assets/62579469/9ee38f61-4794-4d34-bb17-faef4f11d08e" width=220/></p>
 
 
-<i>One observation has always struck me profoundly: when we pause to truly observe—be it the universe, our own hearts, or a child—it may appear static. Such stillness is captivating. Yet, beneath this apparent calm, there exists an undercurrent of movement and transformation. Everything is in a perpetual state of flux, leaning towards a potential future or rooted in an unchangeable past. This intrinsic motion, whether for better or worse, remains largely unseen. It serves as a reminder that while we are shaped by our past, we are also perpetually stepping into the future.</i>
+<i>How can AI discover new scientific mechanisms?</i>
 
 <p align="right"> —— <b>Mellen Y.Pu</b> </p>
 <p align="right"><b>Westlake University, Zhejiang University</b> </p>
